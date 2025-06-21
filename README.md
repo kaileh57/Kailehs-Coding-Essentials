@@ -1,6 +1,8 @@
 # Kailehs Coding Essentials
 My inspiration to make this was to learn the process of creating a macropad to move on to a more complex project, such as a keyboard. I've also wanted one of those StackOverflow copy paste keyboards FOREVER, but have never really had a chance to get one. The macropad will likely end up with a variety of configs based on the app, and should make it easier to perform common tasks as I do more development!!
 
+Note: The enclosure is transparent; I just didn't know how to model that in CAD. If all that can be printed is opaque, that's fine. I can probably get a second case sourced at some point in the future, one I have a working prototype. 
+
 # BOM:
 - 3x Cherry MX Switches
 - 2x SK6812 MINI Leds
@@ -8,6 +10,7 @@ My inspiration to make this was to learn the process of creating a macropad to m
 - 3x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+- 3d printed case
 
 Other bits:
 - KMK firmware
